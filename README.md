@@ -1,3 +1,4 @@
+
 # alineR
 
 alineR is an R package that enables calculation of a phonetic distance measurment. It uses Grzegorz Kondrak's _aline_ algorithm which is written in C, and which generates a phonetic feature-based word similarity score. The alineR package provides convenience functions for analyzing vectors of words using default and user-specified feature weights. Advanced functions enable optimization of feature weights for a given dataset using a neural network.
@@ -12,9 +13,8 @@ In 2023, Ethan Kopf joined the project and revised the code and R package to wor
 
 Use these commands to install alineR_2.0:
 
-install.packages("remotes")
-
-remotes::install_github("egkopf/alineR")
+>install.packages("remotes") 
+>remotes::install_github("egkopf/alineR")
 
 # Disclaimer
 The software is provided with no warranty expressed or implied, PLease use at your own risk.
