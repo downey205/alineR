@@ -23,49 +23,50 @@ The software is provided with no warranty expressed or implied, PLease use at yo
 
 If you use alineR please cite the following paper:
 
-@article{RJ-2017-005,
-  author = {Sean S. Downey and Guowei Sun and Peter Norquest},
-  title = {{alineR: an R Package for Optimizing Feature-Weighted
-          Alignments and Linguistic Distances}},
-  year = {2017},
-  journal = {{The R Journal}},
-  doi = {10.32614/RJ-2017-005},
-  url = {https://doi.org/10.32614/RJ-2017-005},
-  pages = {138--152},
-  volume = {9},
-  number = {1}
-}
+
+> @article{RJ-2017-005,  
+>  author = {Sean S. Downey and Guowei Sun and Peter Norquest},  
+>  title = {{alineR: an R Package for Optimizing Feature-Weighted
+>          Alignments and Linguistic Distances}},  
+>  year = {2017},  
+>  journal = {{The R Journal}},  
+>  doi = {10.32614/RJ-2017-005},  
+>  url = {https://doi.org/10.32614/RJ-2017-005},  
+>  pages = {138--152},  
+>  volume = {9},  
+>  number = {1} 
+>}
 
 Here is Grzegorz Kondrak's original publication documenting the aline algorithm. 
 
-@inproceedings{kondrak2000new,
-  title={A new algorithm for the alignment of phonetic sequences},
-  author={Kondrak, Grzegorz},
-  booktitle={1st Meeting of the North American Chapter of the Association for Computational Linguistics},
-  year={2000}
-}
+>@inproceedings{kondrak2000new,  
+>  title={A new algorithm for the alignment of phonetic sequences},  
+>  author={Kondrak, Grzegorz},  
+>  booktitle={1st Meeting of the North American Chapter of the Association for Computational Linguistics},  
+>  year={2000} 
+>}
 
 Other papers that use alineR by that have been published by our research group include the following:
 
-@article{downey2008computational,
-  title={Computational feature-sensitive reconstruction of language relationships: Developing the ALINE distance for comparative historical linguistic reconstruction},
-  author={Downey, Sean S and Hallmark, Brian and Cox, Murray P and Norquest, Peter and Lansing, J Stephen},
-  journal={Journal of Quantitative Linguistics},
-  volume={15},
-  number={4},
-  pages={340--369},
-  year={2008},
-  publisher={Taylor \& Francis}
-}
+>@article{downey2008computational,  
+>  title={Computational feature-sensitive reconstruction of language relationships: Developing the ALINE distance for comparative historical linguistic reconstruction},  
+>  author={Downey, Sean S and Hallmark, Brian and Cox, Murray P and Norquest, Peter and Lansing, J Stephen},  
+>  journal={Journal of Quantitative Linguistics},  
+>  volume={15},  
+>  number={4},  
+>  pages={340--369},  
+>  year={2008},  
+>  publisher={Taylor \& Francis}
+>}
 
-@article{lansing2022deep,
-  title={Deep ancestry of collapsing networks of nomadic hunter--gatherers in Borneo},
-  author={Lansing, J Stephen and Jacobs, Guy S and Downey, Sean S and Norquest, Peter K and Cox, Murray P and Kuhn, Steven L and Miller, John H and Malik, Safarina G and Sudoyo, Herawati and Kusuma, Pradiptajati},
-  journal={Evolutionary Human Sciences},
-  volume={4},
-  pages={e9},
-  year={2022},
-  publisher={Cambridge University Press}
-}
+>@article{lansing2022deep,  
+>  title={Deep ancestry of collapsing networks of nomadic hunter--gatherers in Borneo},  
+>  author={Lansing, J Stephen and Jacobs, Guy S and Downey, Sean S and Norquest, Peter K and Cox, Murray P and Kuhn, Steven L and Miller, John H and Malik, Safarina G and Sudoyo, Herawati and Kusuma, Pradiptajati},  
+>  journal={Evolutionary Human Sciences},  
+>  volume={4},  
+>  pages={e9},  
+>  year={2022},  
+>  publisher={Cambridge University Press} 
+>}
 
 
