@@ -14,7 +14,7 @@ In 2023, Ethan Kopf joined the project and revised the code and R package to wor
 Use these commands to install alineR_2.0:
 
 >install.packages("remotes")  
->remotes::install_github("egkopf/alineR")
+>remotes::install_github("downey205/alineR")
 
 # Disclaimer
 The software is provided with no warranty expressed or implied, PLease use at your own risk.
