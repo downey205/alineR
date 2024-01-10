@@ -1,7 +1,16 @@
 
-# alineR
+# alineR: An R package for feature-weighted linguistic distances
 
-alineR is an R package that enables calculation of a phonetic distance measurment. It uses Grzegorz Kondrak's _aline_ algorithm which is written in C, and which generates a phonetic feature-based word similarity score. The alineR package provides convenience functions for analyzing vectors of words using default and user-specified feature weights. Advanced functions enable optimization of feature weights for a given dataset using a neural network.
+The alineR R package enables calculation of quantitative phonetic distance measurments. It uses Grzegorz Kondrak's _aline_ algorithm (written in C) to generate a phonetic feature-based word similarity score. The alineR package provides convenience functions for analyzing vectors of words using default and user-specified feature weights. Advanced functions enable optimization of feature weights for a given dataset using a neural network. Package is described in "alineR: an R Package for Optimizing Feature-Weighted Alignments and Linguistic Distances" in The R Journal (2017) <http://doi.org/10.32614/RJ-2017-005>
+
+Version: 2.0  
+Published: 9 Jan 2024  
+Authors: Sean S. Downey, Guowei Sun, Peter Norquest  
+Maintainer: Ethan Kopf  
+License:	GPL-3  
+URL: https://github.com/downey205/alineR   
+
+Correspondences: Sean Downey (<downey.205@osu.edu>)
 
 # History
 
