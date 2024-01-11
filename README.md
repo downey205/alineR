@@ -26,7 +26,7 @@ Use these commands to install alineR_2.0:
 >remotes::install_github("downey205/alineR")
 
 # Disclaimer
-The software is provided with no warranty expressed or implied, Please use at your own risk.
+The software is provided with no warranty expressed or implied. Please use at your own risk.
 
 # References
 
